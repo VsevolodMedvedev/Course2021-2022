@@ -1,0 +1,10 @@
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe.config
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\bin\Debug\Lab1.3.pdb
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.AssemblyReference.cache
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1._3.Form1.resources
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1._3.Properties.Resources.resources
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.GenerateResource.cache
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.CoreCompileInputs.cache
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.exe
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab1\Lab1.3\Lab1.3\obj\Debug\Lab1.3.pdb

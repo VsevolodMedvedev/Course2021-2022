@@ -1,0 +1,12 @@
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\bin\Debug\Lab3.Control.exe.config
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\bin\Debug\Lab3.Control.exe
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\bin\Debug\Lab3.Control.pdb
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.csproj.AssemblyReference.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.csproj.SuggestedBindingRedirects.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.Form1.resources
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.Properties.Resources.resources
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.UserControl1.resources
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.csproj.GenerateResource.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.csproj.CoreCompileInputs.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.exe
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab3\Lab3.Control\Lab3.Control\obj\Debug\Lab3.Control.pdb

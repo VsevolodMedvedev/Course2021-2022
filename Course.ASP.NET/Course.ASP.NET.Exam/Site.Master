@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ITMO.ASP.Exam.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="Styles.css" />
+    <style type="text/css">
+        .auto-style8 {
+            height: 200px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <form id="form1" runat="server">
+   <table class="auto-style1"> 
+       <tr> 
+           <td style="height:50px">
+                <h2 class="auto-style3">ЖУРНАЛ КОНТРОЛЯ УСПЕВАЕМОСТИ</h2></td> 
+       </tr> 
+       <tr> 
+           <td class="auto-style8">
+                <div class="menu">
+               <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               </asp:ContentPlaceHolder>
+                </div>
+               &nbsp;
+               </td>
+       </tr> 
+       <tr>         
+            <td class="auto-style4">&nbsp; 
+                <%--Нижний колонтитул--%> 
+                <div id="temo_footer"> 
+                    <ul class="footer_menu"> 
+                        <li><a href="Start.aspx">Главная</a></li>
+                        <li><a href="ExpFormAdd.aspx">Добавить</a></li>
+                        <li><a href="PageAllStudent.aspx">Список студентов</a></li> 
+                        <li><a href="PageBestStudent.aspx">Лучшие</a></li>    
+                        <li><a href="PageWorstStudent.aspx">Отстающие</a></li>
+                        
+                    </ul> 
+                </div> 
+           </td>         
+       </tr> 
+    </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Театр</title>
+  <link rel="shortcut icon" href="images/maska2.png" type="image/png">
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <header align="center">
+    <ul class="profile-menu-top">
+      <li><a class="profile-menu-trigger" data-trigger="dropdown" href="#">&#8201;&#8801;&#8201;<!--&#8201;&#10006;&#8201;--></a>
+        <ul class="profile-submenu submenu">
+          <li><a href="Start.html">Главная</a></li>
+          <li><a href="poster.html">Афиша</a></li>
+          <li><a href="people.html">Люди</a></li>
+          <li><a href="tickets.html">Билеты</a></li>
+          <li><a href="Contacts.html">Контакты</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div class="head-elem1">
+      <div class="head-elem3">
+        <img class="header-image" src="images/headGlobus2.png" width="260">
+      </div class="head-elem3">
+
+    <div class="head-elem2">
+      <h1>Театр<br/>ГЛОБУС</h1>
+    </div>
+
+    </div>
+    <nav class="nav">
+
+      <ul class="profile-menu">
+        <li><a href="Start.html">Главная</a></li>
+        <li><a href="poster.html">Афиша</a></li>
+        <li><a href="people.html">Люди</a></li>
+        <li><a href="tickets.html">Билеты</a></li>
+        <li><a href="Contacts.html">Контакты</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="pre-form">
+    <h1>Покупка билета</h1>
+  </section>
+
+    <section id="ticket-form">
+      <article class="art-ticket">
+        <article class="art-ticket0">
+        </article>
+        <article class="art-ticket1">
+      <form name="sendForm" method="POST" action="#">
+        <h3>Спектакль</h3>
+        <select id="select1"class="js-select2" name="spect" placeholder="spect">
+          <option value="name">Название</option>
+          <option>Ромео и Джульетта</option>
+          <option>Укрощение строптивой</option>
+          <option>Гамлет, принц Датский</option>
+          <option>Король Лир</option>
+          <option>Юлий Цезарь</option>
+		      <option>Макбет</option>
+        </select>
+        <select class="js-select2" name="data" placeholder="data">
+          <option id="Date" value="Date">Дата</option>
+          <option id="Date1" value="Date1">01.08.22</option>
+          <option id="Date2" value="Date2">02.08.22</option>
+          <option id="Date3" value="Date3">06.08.22</option>
+          <option id="Date4" value="Date4">13.08.22</option>
+          <option id="Date5" value="Date5">20.08.22</option>
+          <option id="Date6" value="Date6">27.08.22</option>
+          <option id="Date7" value="Date7">03.09.22</option>
+          <option id="Date8" value="Date8">04.09.22</option>
+        </select>
+
+        <br />
+</article>
+<article class="art-ticket2">
+        <h3>Место</h3>
+        <input name="radio1" type="radio" value="партер" class="ten"/>&nbsp;1£|Стоячее|партер<br/>
+        <input name="radio1" type="radio" value="балкон" class="one"/>10£|Сидячее|балкон<br/>
+
+      </article>
+
+      <article class="art-ticket3">
+        <h3>Количество</h3>
+        <select id="select2" class="js-select2" name="city" placeholder="Выберите город">
+          <option>&nbsp;</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+
+    </select>
+        </article>
+        <article class="art-ticket4">
+                <h3>Покупатель</h3>
+                <input [name="address1"] id="name" type="text" placeholder="Имя" class="lg-input"/><br />
+                <input [name="address2"] id="lastName" type="text" placeholder="Фамилия" class="lg-input"/><br />
+                <input [name="city"] id="city" type="text" placeholder="Город" class="sm-input"/><br />
+        </article>
+</article>
+  <br /><br />
+      <input [name="send"] id="send" class="button" type="submit" value="Купить билет"></input>
+    </form>
+
+    </section>
+
+  </main>
+    <br /><br />
+  <footer align="center">&copy; Copyright 2022</footer>
+
+  <script charset="utf-8" src="jquery-3.6.0.min.js"></script>
+  <script charset="utf-8" src="mainjs.js"></script>
+  <!--<script charset="utf-8" src=".\js\doc.js"></script>-->
+
+<script>
+function addData(val){
+  var newData = document.createElement('option');
+  newData.value = val;
+  select.appendChild(newData);
+}
+
+function spectData(){
+  let spect = document.getElementById('select1').selectedIndex;
+  let option0 = document.getElementById("Date");
+  let option1 = document.getElementById("Date1");
+  let option2 = document.getElementById("Date2");
+  let option3 = document.getElementById("Date3");
+  let option4 = document.getElementById("Date4");
+  let option5 = document.getElementById("Date5");
+  let option6 = document.getElementById("Date6");
+  let option7 = document.getElementById("Date7");
+  let option8 = document.getElementById("Date8");
+if (spect==0){
+    option1.remove();
+    option2.remove();
+    option3.remove();
+    option4.remove();
+    option5.remove();
+    option6.remove();
+    option7.remove();
+    option8.remove();
+}else if(spect ==1){
+  option0.remove();
+  option3.remove();
+  option4.remove();
+  option5.remove();
+  option6.remove();
+  option7.remove();
+  option8.remove();
+}else if(spect ==2){
+  option0.remove();
+  option1.remove();
+  option2.remove();
+  option5.remove();
+  option6.remove();
+  option7.remove();
+  option8.remove();
+}else if(spect ==3){
+  option0.remove();
+  option1.remove();
+  option2.remove();
+  option3.remove();
+  option4.remove();
+  option6.remove();
+  option7.remove();
+  option8.remove();
+}else if(spect ==4){
+  option0.remove();
+  option1.remove();
+  option2.remove();
+  option3.remove();
+  option4.remove();
+  option5.remove();
+  option7.remove();
+  option8.remove();
+}else if(spect ==5){
+  option0.remove();
+  option1.remove();
+  option2.remove();
+  option3.remove();
+  option4.remove();
+  option5.remove();
+  option6.remove();
+}
+}
+
+
+function txt() {
+  let spect = document.getElementById('select1').selectedIndex;
+  var options = document.getElementById('select1').options;
+
+/*spectData();
+let data = document.getElementById('js-select2').selectedIndex;
+var dataOptions = document.getElementById('js-select2').options;
+*/
+
+  var price;
+  var x;
+  var rad=document.getElementsByName('radio1');
+    for (var i=0;i<rad.length; i++) {
+      if (rad[i].checked) {
+        if(i==0){
+          price = 1;
+          x=0;
+        }else{
+          price = 10;
+          x=1;
+        }
+      }
+    }
+
+  let num = document.getElementById('select2').selectedIndex;
+  let a = document.getElementById('name').value;
+  let b = document.getElementById('lastName').value;
+  let c = document.getElementById('city').value;
+
+
+if (a && b && c != '' && num!=0 && spect!=0 && (x!=0 || x!=1)){
+  alert("Спектакль: "+options[spect].text+/*"\nДата: "+dataOptions[data]+*/"\nМесто: "+ rad[x].value +"\nКоличество билетов: "+num+"\nИмя: "+a+"\nФамилия: "+b+"\nГород: "+c+"\nК оплате: " + num*price +"£");
+}else{
+  alert("Заполните все поля формы");
+  return false;
+}
+}
+
+var btn = document.getElementById("send");
+btn.addEventListener("click", txt);
+</script>
+
+
+
+  </body>
+</html>

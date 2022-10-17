@@ -1,0 +1,21 @@
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.AssemblyReference.cache
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\Всеволод\Desktop\ИТМО обучение\04 Разработка настольных приложений на C#\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.AssemblyReference.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.SuggestedBindingRedirects.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Lab2\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb

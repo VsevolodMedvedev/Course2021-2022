@@ -1,0 +1,14 @@
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csprojAssemblyReference.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\obj\Debug\Calculator.Form1.resources
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.GenerateResource.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\AWKH\Desktop\Сева\WF & WPF\ДЗ\Calculator\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
